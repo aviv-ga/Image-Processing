@@ -1,0 +1,4 @@
+Filter size determines the amount of neighbours to consider when blurring the image.
+For example: size 1 is the ID transform, because we don't consider any neighbours only the pixel itself.
+size 3 will consider 2 neighbours of each pixel, and so on.
+As the filter's size grows larger, the edges will get more blurred (so is the image, but we will see it clearly on the edges)

@@ -1,0 +1,5 @@
+Q: The quantization procedure needs an initial segment division of [0..255] to segments, z. If a division
+will have a gray level segment with no pixels, the procedure will crash
+
+One of the calculation in the quantization procedure is p(z), p(z)= segment / number of pixels in the segment.
+Therefore an empty segment will lead to division by zero error.

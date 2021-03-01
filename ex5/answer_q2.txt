@@ -1,0 +1,6 @@
+1)corruption function: downscale and upscale the image to get lower resolution image, for our purpose
+corrupted images. 
+
+2) train the NN we built in ex5 - denosing and deblurring.
+
+3) restore an image by upscaling to desired shape and use the trained model.

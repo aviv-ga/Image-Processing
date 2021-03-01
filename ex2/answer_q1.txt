@@ -1,0 +1,5 @@
+There is a major difference between change_Same and change rate.
+When changing the rate by 2, we "run" the data faster, meaning we throw away one data over one we play.
+2 sec of speech will be played at 1 second.
+When resizing the data by 2, we cut the high frequencies, therefore the data consists of the lower frequencies.
+Playing changed_sample sounds disorgenized.

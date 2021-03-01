@@ -1,0 +1,4 @@
+Convolution derivative is calculated over 2 adjacent pixels which is a discrete derivative,
+whereas Fourier derivative is calculated by derivating the image's function itself.
+As a result of Fourier Derivative, it inhances high frequencies more than low frequencies,
+therefore the noise which consists of high frequencies is enhanced as well .

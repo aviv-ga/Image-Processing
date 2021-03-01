@@ -1,0 +1,2 @@
+Varying number of pyramid levels result the blended image to be smoother.
+Each level of the pyramid smoothes the edges of the mask, leading to larger area smoothed, hence better blending.

@@ -1,0 +1,5 @@
+As we increase the number of residual blocks, we have more parameters to learn
+and loss decreases.
+The more accurate (minimal loss) our model is, the more accurate our model results.
+However if we add too many blocks we could easily overfit, because there are too many
+parameters to learn (hence valid set and valid error).

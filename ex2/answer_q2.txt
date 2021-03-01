@@ -1,0 +1,3 @@
+The fast forwarded wav file using phase vocoder is more smoother than fast forwarded wav file using spectrogram scaling.
+Due to overlapping, phase correctness needs to be done because information of the wave components is spread over adjacent STFT bins,
+therefore phase vocoder needs to scale both the frequency and time domains of audio signals by using phase information.

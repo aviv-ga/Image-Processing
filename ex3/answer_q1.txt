@@ -1,0 +1,3 @@
+Each level of the expanded pyramid corresponds to a different range of frequencies which construct the image.
+By multiplying each level of the pyramid by any factor desired, we can control the enhancement / filtering of different frequencies,
+which means enhancing / filtering  frequencies of the image.
